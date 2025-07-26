@@ -1,0 +1,13 @@
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# whisper.cpp build directory
+whisper.cpp/

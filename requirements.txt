@@ -1,0 +1,5 @@
+sounddevice
+scipy
+numpy
+portaudio19-dev
+
